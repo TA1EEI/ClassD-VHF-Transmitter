@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.22307837">
-    <img src="https://zenodo.org/badge/1349900072.svg" alt="DOI" />
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22307837.svg" alt="DOI" />
   </a>
   <a href="https://orcid.org/0009-0001-1628-2183">
     <img src="https://img.shields.io/badge/ORCID-0009--0001--1628--2183-A6CE39?logo=orcid&logoColor=white" alt="ORCID" />
