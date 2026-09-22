@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://doi.org/10.5281/zenodo.22307837">
+  <a href="https://doi.org/10.5281/zenodo.22903894">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.22307837.svg" alt="DOI" />
   </a>
   <a href="https://orcid.org/0009-0001-1628-2183">
@@ -58,7 +58,7 @@ If you use this proof-of-concept or refer to this research in academic/technical
   title        = {ClassD-VHF-Transmitter: Mobile Audio-to-VHF Covert Channel},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22307837},
-  url          = {[https://doi.org/10.5281/zenodo.22307837](https://doi.org/10.5281/zenodo.22307837)}
+  doi          = {10.5281/zenodo.22903894},
+  url          = {[https://doi.org/10.5281/zenodo.22903894](https://doi.org/10.5281/zenodo.22903894)}
 }
 
