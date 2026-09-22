@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.22307837">
+    <img src="https://zenodo.org/badge/1349900072.svg" alt="DOI" />
+  </a>
+  <a href="https://orcid.org/0009-0001-1628-2183">
+    <img src="https://img.shields.io/badge/ORCID-0009--0001--1628--2183-A6CE39?logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
+</p>
+
 # ClassD-RF-Transmitter: Mobile Audio-to-VHF Covert Channel
 
 An experimental Android proof-of-concept demonstrating electromagnetic side-channel transmission (TEMPEST) via smartphone internal Class-D audio amplifiers.
@@ -31,7 +41,24 @@ By synthesizing inaudible 21 kHz ultrasonic audio pulses at 100% media volume, t
 
 ---
 
-
-
 https://github.com/user-attachments/assets/75d38786-4f94-4583-80a4-9e3b7a3494c7
+
+## Author & Citation
+
+**Efe Işık (TA1EEI)**  
+* ORCID: [0009-0001-1628-2183](https://orcid.org/0009-0001-1628-2183)  
+* Amateur Radio Callsign: TA1EEI  
+* Email: [2007efeisik@gmail.com](mailto:2007efeisik@gmail.com)
+
+If you use this proof-of-concept or refer to this research in academic/technical work, please cite it as:
+
+```bibtex
+@software{isik2026classd_transmitter,
+  author       = {Işık, Efe},
+  title        = {ClassD-VHF-Transmitter: Mobile Audio-to-VHF Covert Channel},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22307837},
+  url          = {[https://doi.org/10.5281/zenodo.22307837](https://doi.org/10.5281/zenodo.22307837)}
+}
 
