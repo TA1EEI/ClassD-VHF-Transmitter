@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or wish to cite the physical layer side-channel mechanism, please cite it as below."
+title: "Class-D RF Covert Transmitter"
+abstract: "An intentional electromagnetic side-channel transmission system exploiting smartphone Class-D audio amplifier switching characteristics and PWM harmonics to emit VHF Morse code signals."
+authors:
+  - family-names: "Işık"
+    given-names: "Efe"
+    email: "2007efeisik@gmail.com"
+    website: "https://github.com/TA1EEI"
+version: "1.1.0"
+doi: "10.5281/zenodo.22307837"
+date-released: 2026-10-01
+url: "https://github.com/TA1EEI/ClassD-VHF-Transmitter"
+repository-code: "https://github.com/TA1EEI/ClassD-VHF-Transmitter"
+license: "MIT"
+keywords:
+  - "tempest"
+  - "side-channel"
+  - "rf-leakage"
+  - "hardware-security"
+  - "class-d-amplifier"
+  - "vhf"
+  - "morse-code"
+  - "amateur-radio"
